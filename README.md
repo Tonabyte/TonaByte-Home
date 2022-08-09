@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## How to deploy with Github Pages?
+
+Check this [this](https://github.com/gitname/react-gh-pages)
+
 ## Available Scripts
 
 In the project directory, you can run:
